@@ -2,3 +2,6 @@ sadfsafasfasfasfs
 
 
 master branch : admin added some boring things
+
+
+fixed bug 1
